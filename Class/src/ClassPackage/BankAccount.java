@@ -3,7 +3,6 @@ package ClassPackage;
 public class BankAccount {
 	
 	
-	
 	private String accountHolderName;
 	private String accountNumber;
 	private double balance;
