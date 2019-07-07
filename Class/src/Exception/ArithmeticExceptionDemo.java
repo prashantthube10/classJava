@@ -12,12 +12,21 @@ public class ArithmeticExceptionDemo {
 				try {
 		int result1=secondNumber/firstNumber;
 				}
-				catch(ArithmeticException ex)
+				
+				catch(ArithmeticException e)
 				{
 					System.out.println(" plz check divide by value it should not be zero");
+					System.exit(0);
+				}
+				catch(Exception e)
+				{
+					System.out.println("catch 1");
 				}
 		
-		
+		finally
+		{
+			System.out.println("finally");
+		}
          
 		
 		/*double thirdNumber =0;
