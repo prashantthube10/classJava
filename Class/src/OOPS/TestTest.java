@@ -10,6 +10,7 @@ public class TestTest {
 		// this is my new chnages at the kine 8
 //git
 		// git
+		// i'm writing at the same line
 	}
 
 }
