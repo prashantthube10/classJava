@@ -17,7 +17,11 @@ public class TestTest {
 		// hhahhhave some n jnjndfjsjsjdnjfn// pplease here check that once u statsh it
 		// there is a cnages is coming directly
 		// not checking after statsjasdfasdadadasdadasdasdasd
+//<<<<<<< HEAD
 		// 20 ecplise
+//=======
+		// 200000000000000 git
+//>>>>>>> branch 'master' of https://github.com/prashantthube10/classJava.git
 	}
 
 }
