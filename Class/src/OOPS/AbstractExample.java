@@ -19,5 +19,5 @@ public class AbstractExample extends Abstraction {
 	// 19 line last    
 	
 	
-
+//from net
 }
