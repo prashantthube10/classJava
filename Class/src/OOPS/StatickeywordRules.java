@@ -30,9 +30,9 @@ public class StatickeywordRules {
 	
 	public static void static_method_1()
 	{
-firstnumber=98;  //accessing instance  variables from static method
+         //firstnumber=98;  //accessing instance  variables from static method
 		
-		secondnumber=100;  //accessing static variable inside static method
+		//secondnumber=100;  //accessing static variable inside static method
 		
 	}
 	
@@ -40,7 +40,7 @@ firstnumber=98;  //accessing instance  variables from static method
 	//static methods can only call static methods directly
 	public static void static_method_2()
 	{
-instance_method_1();  //calling instance methods from static  method
+//instance_method_1();  //calling instance methods from static  method
 
 static_method_1();  //calling static method from static method
 		
