@@ -14,7 +14,7 @@ public class AbstractExample extends Abstraction {
 	
 	
 	
-	
+	//at ther endd not comtting the result ////////
 	
 	
 	
